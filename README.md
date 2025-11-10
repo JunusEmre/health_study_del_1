@@ -1,5 +1,5 @@
 
-# Health Study Analysis Project (Part 1: G & VG)
+# Health Study Analysis Project Part 1
 
 This repository holds the code and final results for the required health study data analysis assignment. The project focuses on performing descriptive statistics, simulations, and advanced statistical inference on health data (health_study_dataset.csv).
 
